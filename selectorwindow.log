@@ -1,0 +1,25 @@
+00:00:00.725332 VirtualBox GUI VM Selector Window 7.2.6 r172322 win.amd64 (Jan 30 2026 17:17:49) release log
+00:00:00.725335 Log opened 2026-02-14T10:19:38.948277200Z
+00:00:00.725336 Build Type: release
+00:00:00.725337 OS Product: Windows 11
+00:00:00.725486 OS Release: 10.0.26200.7840
+00:00:00.725487 OS Service Pack: 
+00:00:00.746975 DMI Product Name: HP 245 14 inch G10 Notebook PC
+00:00:00.754573 DMI Product Version: Type1ProductConfigId
+00:00:00.754587 Firmware type: UEFI
+00:00:00.755179 Secure Boot: Enabled
+00:00:00.755191 Host RAM: 7412MB (7.2GB) total, 3453MB (3.3GB) available
+00:00:00.755197 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.755197 Process ID: 4468
+00:00:00.755198 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.755198 Windows Features:
+00:00:00.755198   Core Isolation (Memory Integrity): ENABLED
+00:00:00.755493 Qt version: 6.8.0
+00:00:00.756368 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.769972 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.432966 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:20.726484 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:46.681016 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:47.997936 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:55.081503 GUI: UICommon: Handling aboutToQuit request..
+00:27:56.224637 GUI: UICommon: aboutToQuit request handled!
